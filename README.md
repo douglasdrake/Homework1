@@ -1,1 +1,4 @@
-# Homework1
+# kickstarter
+
+# Description
+An analysis of Kickstarter campaigns using Excel.
